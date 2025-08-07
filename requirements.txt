@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+TTS==0.20.0
+soundfile
